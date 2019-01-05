@@ -7,26 +7,14 @@ In this assignment you will start with the github classroom link, create your ow
 	- Jupyter Notebooks
 	- Python Essential Training
 	- Learning Python
-	- Learning Python
 
 ## Learning Outcomes
 - Modification of Jupyter notebook.
+- Experience with Python and pandas for data manipulation.
 - Committing changes to assignment01 and pushing to remote github repository.
 
 ## Directions
 1. Accept github classroom assignment via link provided in email or on slack.
-
-2. On a local resource clone the newly created repository.
-3. Create a conda local conda environment using csci627.yml file.
-4. Open the included jupyter notebook using newly created conda environment.
-5. Modify Jupyter notebook within project.
-	- Add python print statement that outputs "Hello World!"
-	- Add python code that calculates 1 plus 1
-	- Add python code that calculates the square root of 4
-6. Commit changes to repository, remember to add a useful commit message.
-7. Modify Jupyter notebook within project.
-	- Add python print statement that outputs "My name is:" + <your name>
-	- Add python code that calculates 1 minus 1
-	- Add python code that calculates the square root of 16
+2. Follow directions in CSCI627-assignment01.ipynb (23 steps).
 8. Commit changes to repository, remember to add a useful commit message.
 9. Push committed changes to github.
