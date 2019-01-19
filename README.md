@@ -1,5 +1,5 @@
 # CSCI627 Assignment01 - Python and Data
-In this assignment you will start with the github classroom link, create your own assignment repository, clone it to your computer, make modifications to a jupyter notebook, commit the changes, and push back the updated repository to github.
+In this assignment you will start with the github classroom link, create your own assignment repository, clone it to your computer, make modifications to the jupyter notebook, commit the changes, and push back the updated repository to github.
 
 ## Potential Resources:
 
